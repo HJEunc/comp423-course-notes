@@ -11,7 +11,7 @@ Before you begin, make sure you have the following installed:
 
 * [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 * [Docker](https://www.docker.com/products/docker-desktop)
-* [VS Code](https://code.visualstudio.com/) (with the [Dev Containers Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers))
+* [VS Code](https://code.visualstudio.com/) (with the [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) Extension)
 !!! Tip
     No software (e.g., Rust) needs to be installed directly on your host machine. All development will happen inside the container.
 
