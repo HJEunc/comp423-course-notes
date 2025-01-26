@@ -5,3 +5,7 @@
 
 !!! note
     This is an example of an admonition. Use it to highlight important notes.
+
+```rust
+println!("TESTING CODE BLOCKS!");
+```
