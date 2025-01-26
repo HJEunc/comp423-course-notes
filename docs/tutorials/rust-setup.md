@@ -107,7 +107,7 @@ cd hello-comp423
 Open ```src/main.rs``` in VS Code and replace the default content with the following code:
 ```rust
 fn main() {
-    println!("Hello, COMP423!");
+    println!("Hello COMP423");
 }
 ```
 
@@ -128,7 +128,7 @@ cargo run
 You should see the following output:
 
 ```bash
-Hello, COMP423!
+Hello COMP423
 ```
 
 ---
